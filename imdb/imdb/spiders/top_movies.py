@@ -43,15 +43,4 @@ class BestMoviesSpider(CrawlSpider):
             'genre': genre,
             "release": release,
             'url': url
-        }
-        
-
-
-
-
-# movie list
-    # title
-    # url
-    # genra
-
-            
+        }         
